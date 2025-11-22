@@ -26,4 +26,4 @@ It showcases my projects, skills, and contact details — designed with a focus 
 
 ---
 ##Live Link
-
+https://satyajit-portfolio-fe3n.onrender.com
