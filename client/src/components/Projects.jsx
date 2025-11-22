@@ -1,5 +1,7 @@
 import React from "react";
 import projectsData from "../data/projectsData";
+
+
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 
 const Projects = () => {
